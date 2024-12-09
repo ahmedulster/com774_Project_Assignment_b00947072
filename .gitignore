@@ -1,0 +1,12 @@
+# Ignore macOS system files
+.DS_Store
+
+# Ignore Python virtual environment
+venv/
+
+# Ignore Python cache files
+__pycache__/
+
+# Ignore backup files (like .save files)
+*.save
+
